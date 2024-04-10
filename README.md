@@ -57,3 +57,5 @@ You can view all my certification badges here: [![Certification Badges](https://
 
 - [![E-mail](https://img.shields.io/badge/E--mail-black?logo=gmail)](mailto:miguel@nischor.com.br)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/mgnischor/)
+
+<a href="https://app.daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=pan" width="356" alt="Miguel Nischor's Dev Card"/></a>
