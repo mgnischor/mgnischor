@@ -2,7 +2,10 @@
 This is my GitHub profile page. I am a software engineer with a passion for distributed computing, embedded systems, and cloud services. I am currently looking for opportunities to work on projects that involve these technologies. I am also interested in learning more about machine learning and artificial intelligence. I am always looking to learn new things and improve my skills. I have a lot of experience in IT infrastructure, software development, and cloud services. I have worked in a variety of industries, including agriculture, healthcare, construction and wholesale.
 
 ## Badges
-You can view all my certification badges here: [![Certification Badges](https://img.shields.io/badge/Credly-Click%20Here-black?logo=credly)](https://www.credly.com/users/miguelnischor/badges)
+[![Certification Badges](https://img.shields.io/badge/Credly-black?logo=credly)](https://www.credly.com/users/miguelnischor/badges)
+
+<img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png" alt="FCA" width="128" height="128" />
+<img src="https://images.credly.com/size/340x340/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" alt="FCF" width="128" height="128" />
 
 ## My Skills
 - **Programming and markup languages:**
