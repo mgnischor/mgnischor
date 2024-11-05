@@ -7,3 +7,5 @@
 </div>
 
 ###
+
+<a href="https://app.daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=jd9" width="356" alt="Miguel Nischor's Dev Card"/></a>
