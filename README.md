@@ -20,3 +20,7 @@ I am a DevSecOps professional with 12 years of experience in turning technologic
 - [AWS Knowledge: AWS for Games: Cloud Game Development](https://www.credly.com/badges/4667b163-f64f-41ab-bb56-9ce8b17fb25f)
 - [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/3fdab1ed-b502-4e65-a030-6124020f31aa)
 - [AWS Knowledge: Serverless](https://www.credly.com/badges/d03c10ba-3060-4aed-9501-b21d3700db0c)
+
+## Cards
+
+<a href="https://app.daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=5i3" width="356" alt="Miguel Nischor's Dev Card"/></a>
