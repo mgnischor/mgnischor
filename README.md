@@ -21,6 +21,12 @@ I am a DevSecOps professional with 12 years of experience in turning technologic
 - [AWS Knowledge: Cloud Essentials](https://www.credly.com/badges/3fdab1ed-b502-4e65-a030-6124020f31aa)
 - [AWS Knowledge: Serverless](https://www.credly.com/badges/d03c10ba-3060-4aed-9501-b21d3700db0c)
 
+## Languages
+
+- **Brazilian Portuguese** - C2/Native
+- **English** - C1/Advanced
+- **Spanish** - A2/Basic
+
 ## Cards
 
 <a href="https://app.daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=5i3" width="356" alt="Miguel Nischor's Dev Card"/></a>
