@@ -1,6 +1,8 @@
 # Welcome!
 
-I am a DevSecOps professional with 12 years of experience in turning technological challenges into robust and scalable solutions. With a background in Computer Engineering, I specialize in Business Engineering and Distributed Software Architecture. Throughout my career, I have integrated security, development, and operations practices to ensure agile, secure, and highly available systems. With a focus on automation, continuous monitoring, and embedding security from the start, I optimize workflows and protect infrastructures in critical environments. I am always seeking new opportunities to learn and share knowledge. If you are interested in collaborating, discussing, or exchanging ideas about DevSecOps, system architecture, or any related topics, feel free to reach out!
+I am a DevSecOps professional with 12 years of experience in turning technological challenges into robust and scalable solutions. With a background in Computer Engineering, I specialize in Business Engineering and Distributed Software Architecture. Throughout my career, I have integrated security, development, and operations practices to ensure agile, secure, and highly available systems. With a focus on automation, continuous monitoring, and embedding security from the start, I optimize workflows and protect infrastructures in critical environments. I am always seeking new opportunities to learn and share knowledge. If you are interested in collaborating, discussing, or exchanging ideas about DevSecOps, system architecture, or any related topics, feel free to reach out!<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnischor&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)
 
 ## Education
 
