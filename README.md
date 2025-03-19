@@ -5,7 +5,7 @@
 Graduated in Computer Engineering from UNINTER, post-graduated in Business Engineering from UNINTER and post-graduated in Distributed Software Architecture from PUC MINAS. Has 13 years of experience in the area of ​​information technology, with experience in the areas of infrastructure, support, management, governance, development and operations. Has extensive experience and ease in teaching. Currently works in the area of ​​software development.<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnischor&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=contribs&card_width=465)<br />
-![Codewars Badge](https://www.codewars.com/users/mgnischor/badges/large)<br /><br />
+![Codewars Badge](https://www.codewars.com/users/mgnischor/badges/large)<br />
 
 Why are my repositories private?<br />
 <br />
