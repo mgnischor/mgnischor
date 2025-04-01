@@ -8,4 +8,4 @@ I am a 27 years old software engineer from Brazil, specialized in distributed so
 
 ## Why are all my repositories private?
 
-Due to intellectual property issues and very precarious legislation in Brazil, I prefer to keep all my projects, creations and ideas in private repositories. If you are a recruiter, entrepreneur or interested in a qualified developer, get in touch and I can show you my projects and creations without any problem.
+Due to intellectual property issues and very precarious legislation and work ethics in Brazil, I prefer to keep all my projects, creations and ideas in private repositories. If you are a recruiter, entrepreneur or interested in a qualified developer, get in touch and I can show you my projects and creations without any problem.
