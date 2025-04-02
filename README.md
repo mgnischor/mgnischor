@@ -8,10 +8,10 @@ I am a 27 years old software engineer from Brazil, specialized in distributed so
 
 ## Languages
 
-- ![Flag](https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/br.svg =48x32) Brazilian Portuguese (Native) - Read, Write, Listen and Translate
-- ![Flag](https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/us.svg =48x32) English (Advanced) - Read, Write, Listen and Translate
-- ![Flag](https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/es.svg =48x32) Spanish (Basic) - Read and Write
-- ![Flag](https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/fr.svg =48x32) French (Basic) - Read and Write
+- <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/br.svg" width="48"></img> Brazilian Portuguese (Native) - Read, Write, Listen and Translate
+- <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/us.svg" width="48"></img> English (Advanced) - Read, Write, Listen and Translate
+- <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/es.svg" width="48"></img> Spanish (Basic) - Read and Write
+- <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/fr.svg" width="48"></img> French (Basic) - Read and Write
 
 ## Tech stack
 
