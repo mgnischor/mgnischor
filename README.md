@@ -13,6 +13,10 @@ I am a 27 years old software engineer from Brazil, specialized in distributed so
 - <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/es.svg" width="32"></img> Spanish (Basic) - Read and Write
 - <img src="https://github.com/lipis/flag-icons/raw/refs/heads/main/flags/4x3/fr.svg" width="32"></img> French (Basic) - Read and Write
 
+## Social media
+
+- <a href="https://linkedin.com/in/mgnischor">[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)</a>
+
 ## Tech stack
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
