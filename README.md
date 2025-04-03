@@ -2,6 +2,8 @@
 
 I am a 27 years old software engineer from Brazil, specialized in distributed software architecture and with 13+ years of experience in the IT area. I have worked in several areas, including: support, infrastructure, development, management, governance, database and teaching. I currently work as a freelance software engineer and also teach technical and higher education courses. If you are interested in more details or a project, feel free to contact me for more information.
 
+[![mgnischor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnischor)]
+
 ## Badges
 
 <a href="https://app.daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=xii" width="356" alt="Dev Card"/></a>
