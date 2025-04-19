@@ -21,8 +21,8 @@ I am a 27 years old software engineer from Brazil, specialized in distributed so
 
 ## Social media
 
-- <a href="https://github.com/mgnischor">[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)</a>
-- <a href="https://linkedin.com/in/mgnischor">[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)</a>
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mgnischor)
+- [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/mgnischor)
 
 ## Tech stack
 
