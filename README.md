@@ -4,7 +4,7 @@
 <summary>🇧🇷 Português Brasileiro</summary>
 
 ```
-© 2025 Miguel Nischor Neto — Todos os direitos reservados.  
+Copyright © 2025 Miguel Nischor Neto — Todos os direitos reservados.  
 
 Este perfil e seu conteúdo (incluindo textos, design, estrutura e organização) são de uso pessoal e exclusivo.  
 A cópia parcial ou total, reprodução ou redistribuição não autorizada não é permitida.
@@ -28,7 +28,7 @@ Hoje, atuo diretamente com desenvolvimento de software, focando em criar soluç�
 <summary>🇺🇸 United States English</summary>
 
 ```
-© 2025 Miguel Nischor Neto — All rights reserved.  
+Copyright © 2025 Miguel Nischor Neto — All rights reserved.  
 
 This profile and its content (including text, design, structure, and organization) are for personal and exclusive use.  
 Unauthorized copying, reproduction, or redistribution, in whole or in part, is not allowed.
@@ -52,7 +52,7 @@ Today, I work directly in software development, focusing on creating robust and 
 <summary>🇪🇸 Español</summary>
 
 ```
-© 2025 Miguel Nischor Neto — Todos los derechos reservados.  
+Copyright © 2025 Miguel Nischor Neto — Todos los derechos reservados.  
 
 Este perfil y su contenido (incluyendo textos, diseño, estructura y organización) son de uso personal y exclusivo.  
 No se permite la copia, reproducción o redistribución no autorizada, total o parcial.
