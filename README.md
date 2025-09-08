@@ -1,26 +1,26 @@
 # Bem vindo! Welcome! ¡Bienvenido!
 
-<summary>
-<details>🇧🇷 Português Brasileiro</details>
+<details>
+<summary>🇧🇷 Português Brasileiro</summary>
 
 ## Sobre mim
 
-</summary>
+</details>
 
 ---
 
-<summary>
-<details>🇺🇸 United States English</details>
+<details>
+<summary>🇺🇸 United States English</summary>
 
 ## About me
 
-</summary>
+</details>
 
 ---
 
-<summary>
-<details>🇪🇸 Español</details>
+<details>
+<summary>🇪🇸 Español</summary>
 
 ## Acerca de mí
 
-</summary>
+</details>
