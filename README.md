@@ -3,7 +3,8 @@
 <summary>
 <details>🇧🇷 Português Brasileiro</details>
 
-# Sobre mim
+## Sobre mim
+
 </summary>
 
 ---
@@ -11,7 +12,8 @@
 <summary>
 <details>🇺🇸 United States English</details>
 
-# About me
+## About me
+
 </summary>
 
 ---
@@ -19,5 +21,6 @@
 <summary>
 <details>🇪🇸 Español</details>
 
-# Acerca de mí
+## Acerca de mí
+
 </summary>
