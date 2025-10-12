@@ -1,0 +1,60 @@
+{
+    "folders": [
+        {
+            "path": ".."
+        }
+    ],
+
+    "settings": {
+        "prettier.configPath": ".prettierrc",
+        "prettier.enable": true,
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.detectIndentation": true,
+        "editor.fontFamily": "'JetBrains Mono', Consolas",
+        "editor.fontSize": 14,
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "editor.insertSpaces": true,
+        "editor.lineNumbers": "on",
+        "editor.minimap.enabled": true,
+        "editor.tabSize": 4,
+        "editor.wordWrap": "wordWrapColumn",
+        "editor.wordWrapColumn": 120,
+
+        "files.autoSave": "afterDelay",
+        "files.autoSaveDelay": 1200,
+        "files.defaultLanguage": "markdown",
+        "files.enableTrash": true,
+        "files.encoding": "utf8",
+        "files.eol": "auto",
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true
+        },
+
+        "git.ignoreLegacyWarning": true,
+        "git.ignoreLimitWarning": true,
+        "git.ignoreMissingGitWarning": true,
+        "git.ignoreRebaseWarning": true,
+        "git.ignoreWindowsGit27Warning": true,
+
+        "[ignore]": {
+            "editor.defaultFormatter": null,
+            "editor.formatOnPaste": false,
+            "editor.formatOnSave": false
+        },
+
+        "[xml]": {
+            "editor.defaultFormatter": "redhat.vscode-xml"
+        },
+
+        "[yaml]": {
+            "editor.defaultFormatter": "redhat.vscode-yaml",
+            "editor.tabSize": 2
+        }
+    }
+}
