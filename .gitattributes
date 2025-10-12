@@ -1,0 +1,55 @@
+* text=auto
+*.c     text
+*.h     text
+*.cpp   text
+*.cs    text
+*.java  text
+*.py    text
+*.rb    text
+*.go    text
+*.js    text
+*.ts    text
+*.jsx   text
+*.tsx   text
+*.json  text
+*.xml   text
+*.yml   text
+*.yaml  text
+*.html  text
+*.css   text
+*.scss  text
+*.md    text
+*.txt   text
+*.sql   text
+*.sh    text eol=lf
+*.bash  text eol=lf
+*.bat   text eol=crlf
+*.ps1   text eol=crlf
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.pdf   binary
+*.zip   binary
+*.tar   binary
+*.gz    binary
+*.7z    binary
+*.exe   binary
+*.dll   binary
+*.class binary
+*.so    binary
+*.o     binary
+*.svg   text diff
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.min.js export-ignore
+*.map    export-ignore
+package-lock.json    merge=union
+yarn.lock            merge=union
+pnpm-lock.yaml       merge=union
+composer.lock        merge=union
+*.ipynb linguist-generated=true
+/.github/*   export-ignore
+/.vscode/*   export-ignore
+/tests/*     export-ignore
+/.editorconfig export-ignore
