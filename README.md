@@ -79,7 +79,7 @@ I've worked with a broad set of technologies in projects ranging from small prot
 
 ## Projects
 
-Section under construction.
+* [ecommerce-backend](https://github.com/mgnischor/ecommerce-backend) - A production-ready, enterprise-grade e-commerce backend API built with ASP.NET Core 9, featuring clean architecture, double-entry accounting, and comprehensive observability.
 
 ## Active certifications
 
