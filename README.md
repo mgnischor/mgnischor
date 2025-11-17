@@ -111,6 +111,7 @@ A comprehensive, production-ready enterprise solution for modern digital commerc
 |---------|-------------|
 | **[ecommerce-backend](https://github.com/mgnischor/ecommerce-backend)** | Production-ready, enterprise-grade e-commerce backend API built with **ASP.NET Core 9**, featuring **clean architecture**, **double-entry accounting**, and **comprehensive observability**. |
 | **[ecommerce-frontend](https://github.com/mgnischor/ecommerce-frontend)** | Modern frontend application written in **Angular** for seamless integration with the ecommerce-backend project. |
+| **[automation-scripts](https://github.com/mgnischor/automation-scripts)** | A collection of **shell-based automation scripts** for streamlining repetitive IT tasks, with a focus on efficiency in **software development** and **system administration**. |
 
 **Key Technologies:** ASP.NET Core 9 · Clean Architecture · PostgreSQL · Redis · Docker · GitHub Actions
 
