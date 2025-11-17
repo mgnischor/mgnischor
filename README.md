@@ -116,7 +116,18 @@ A comprehensive, production-ready enterprise solution for modern digital commerc
 
 ---
 
-## 🎓 Professional Certifications
+## 🎓 Education
+
+| Degree | Program | Status |
+|:---|:---|:---:|
+| **Bachelor's** | Computer Engineering | ✅ Completed |
+| **Specialization** | Business Engineering | ✅ Completed |
+| **Graduate Studies** | Distributed Software Architecture | 🔄 In Progress |
+| **Graduate Studies** | DevOps Engineering | 🔄 In Progress |
+
+---
+
+## 📜 Professional Certifications
 
 <p align="center">
 
