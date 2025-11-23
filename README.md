@@ -10,6 +10,7 @@
 ## 📊 GitHub Overview
 
 ![mgnischor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnischor&theme=dark&show_icons=true)
+<a href="https://app.daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=7ea" width="356" alt="Miguel Nischor's Dev Card"/></a>
 
 ---
 
