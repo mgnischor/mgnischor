@@ -180,6 +180,7 @@ I'm always interested in:
 **Feel free to reach out!** You can connect with me through:
 - 📧 Email: [miguel@datatower.tech]
 - 🔗 LinkedIn: [https://linkedin.com/in/mgnischor]
+- 🌱 Khan Academy: [http://www.khanacademy.org/profile/mgnischor]
 
 ---
 
