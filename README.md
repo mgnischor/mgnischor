@@ -87,8 +87,7 @@ Hoje, foco em construir **softwares robustos e escaláveis**, unindo o rigor aca
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mgnischor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgnischor&layout=compact&theme=tokyonight&hide_border=true" />
+[![mgnischor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnischor)](https://github.com/mgnischor/mgnischor)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgnischor&theme=tokyonight&hide_border=true" />
 
