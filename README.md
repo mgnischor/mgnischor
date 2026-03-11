@@ -28,8 +28,8 @@ Hoje, foco em construir **softwares robustos e escaláveis**, unindo o rigor aca
 | 🎓 | Engenharia da Computação | UNINTER |
 | 📘 | Pós-graduação em Engenharia de Negócios | UNINTER |
 | 📘 | Pós-graduação em Arquitetura de Software Distribuído | PUC Minas |
+| 📘 | Pós-graduação em Engenharia DevOps *(em andamento)* | IFMT |
 | 📖 | Bacharelado em Matemática *(em andamento)* | UNINTER |
-| 📖 | Especialização em Engenharia DevOps *(em andamento)* | IFMT |
 
 ---
 
