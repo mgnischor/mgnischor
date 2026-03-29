@@ -101,10 +101,10 @@ Especialista em **Arquitetura de Software Distribuído** (PUC Minas) com sólida
 <div align="center">
 
 <a href="https://github.com/mgnischor/ecommerce-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=ecommerce-backend&theme=tokyonight&hide_border=true" />
+  <img align="center" src="vercel-test-njygqwc6o-mgnischors-projects.vercel.app/api/pin/?username=mgnischor&repo=ecommerce-backend&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/mgnischor/ecommerce-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=ecommerce-frontend&theme=tokyonight&hide_border=true" />
+  <img align="center" src="vercel-test-njygqwc6o-mgnischors-projects.vercel.app/api/pin/?username=mgnischor&repo=ecommerce-frontend&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -124,8 +124,8 @@ Especialista em **Arquitetura de Software Distribuído** (PUC Minas) com sólida
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgnischor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgnischor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgnischor&theme=tokyonight&hide_border=true" />
 
