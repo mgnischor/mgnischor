@@ -100,11 +100,11 @@ Especialista em **Arquitetura de Software Distribuído** (PUC Minas) com sólida
 
 <div align="center">
 
-<a href="https://github.com/mgnischor/PROJECT_1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=PROJECT_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mgnischor/ecommerce-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=ecommerce-backend&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/mgnischor/PROJECT_2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=PROJECT_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/mgnischor/ecommerce-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=ecommerce-frontend&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
