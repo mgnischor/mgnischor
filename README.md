@@ -1,11 +1,14 @@
 <div align="center">
 
-# Olá, eu sou o Miguel Nischor 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Miguel%20Nischor&fontSize=52&fontColor=e94560&fontAlignY=38&desc=Software%20Architect%20%7C%20Backend%20Engineer%20%7C%20DevOps&descAlignY=58&descSize=18&descColor=a8b2d8" />
 
-**Engenheiro da Computação | Arquiteto de Software | Eterno Aprendiz**
+<a href="https://www.linkedin.com/in/mgnischor/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mgnischor"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:miguel@nischor.com.br"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mgnischor/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgnischor)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=13%2B+anos+em+TI;Arquitetura+de+Sistemas+Distribu%C3%ADdos;Backend+%7C+Cloud+%7C+DevOps;AWS+Certified+Developer+%E2%80%93+Associate)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,23 +16,17 @@
 
 ## 🧠 Sobre mim
 
-Engenheiro da Computação pela **UNINTER**, com pós-graduação em **Engenharia de Negócios** (UNINTER) e **Arquitetura de Software Distribuído** (PUC Minas). Com **13 anos de trajetória em TI**, transitei por infraestrutura, gestão e desenvolvimento — o que me conferiu uma visão sistêmica do ciclo de vida de soluções digitais.
+Engenheiro da Computação com **13+ anos de experiência em TI**, transitando por infraestrutura, gestão e desenvolvimento — o que me confere uma visão sistêmica, rara e valiosa no ciclo de vida de soluções digitais.
 
-Movido pelo desejo de aprofundar minha capacidade analítica e os fundamentos da computação, atualmente curso **Bacharelado em Matemática**, paralelamente à especialização em **Engenharia DevOps** (IFMT).
+Especialista em **Arquitetura de Software Distribuído** (PUC Minas) com sólida base em engenharia de negócios e DevOps. Atualmente aprofundo fundamentos em **Matemática** (UNINTER) e **Engenharia DevOps** (IFMT).
 
-Hoje, foco em construir **softwares robustos e escaláveis**, unindo o rigor acadêmico à agilidade das necessidades de negócio. Possuo forte aptidão para o ensino e acredito que o **compartilhamento de conhecimento** é o motor da evolução em equipes técnicas.
+**O que trago para um time:**
 
----
-
-## 🎓 Formação Acadêmica
-
-| 📌 | Curso | Instituição |
-|---|---|---|
-| 🎓 | Engenharia da Computação | UNINTER |
-| 📘 | Pós-graduação em Engenharia de Negócios | UNINTER |
-| 📘 | Pós-graduação em Arquitetura de Software Distribuído | PUC Minas |
-| 📘 | Pós-graduação em Engenharia DevOps *(em andamento)* | IFMT |
-| 📖 | Bacharelado em Matemática *(em andamento)* | UNINTER |
+- 🏗️ **Arquitetura** — Desenho de sistemas distribuídos resilientes, escaláveis e orientados a domínio
+- ⚙️ **DevOps** — Construção e evolução de pipelines CI/CD, IaC com Terraform e orquestração com Kubernetes
+- ☁️ **Cloud** — Soluções em AWS e Azure com foco em custo, segurança e performance
+- 🎯 **Visão de negócio** — Tradução de requisitos de negócio em decisões técnicas com impacto real
+- 🧑‍🏫 **Liderança técnica** — Mentoria, revisão de código e elevação do nível técnico das equipes
 
 ---
 
@@ -38,56 +35,97 @@ Hoje, foco em construir **softwares robustos e escaláveis**, unindo o rigor aca
 <div align="center">
 
 [![AWS Certified Developer Associate](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-developer-associate/)
-
-> ✅ **Certificação ativa** — AWS Certified Developer – Associate
+![Certificação Ativa](https://img.shields.io/badge/Status-Ativa-22c55e?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🎓 Formação Acadêmica
 
 <div align="center">
+
+| Grau | Curso | Instituição | Status |
+|:---:|---|---|:---:|
+| 🎓 | Engenharia da Computação | UNINTER | ✅ Concluído |
+| 📘 | Pós-graduação — Engenharia de Negócios | UNINTER | ✅ Concluído |
+| 📘 | Pós-graduação — Arquitetura de Software Distribuído | PUC Minas | ✅ Concluído |
+| 📘 | Pós-graduação — Engenharia DevOps | IFMT | 🔄 Em andamento |
+| 📖 | Bacharelado em Matemática | UNINTER | 🔄 Em andamento |
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+**Linguagens**
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Dados & Mensageria**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**Ferramentas**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 O que me move
-
-```text
-🏗️  Arquitetura    ➜  Projetar sistemas distribuídos resilientes e escaláveis
-⚙️  DevOps         ➜  Automatizar pipelines e garantir entregas contínuas
-📐  Matemática     ➜  Aplicar raciocínio analítico na resolução de problemas complexos
-🎯  Negócios       ➜  Traduzir necessidades de negócio em soluções técnicas eficientes
-🧑‍🏫  Ensino         ➜  Compartilhar conhecimento e elevar o nível das equipes
-```
-
----
-
-## 📊 GitHub Stats
+## � Projetos em Destaque
 
 <div align="center">
 
-[![mgnischor's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgnischor)](https://github.com/mgnischor/mgnischor)
+<a href="https://github.com/mgnischor/PROJECT_1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=PROJECT_1&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/mgnischor/PROJECT_2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mgnischor&repo=PROJECT_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+<br/>
+
+### 🏗️ Arquitetura & Backend
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**🔗 E-Commerce (Backend)**](https://github.com/mgnischor/ecommerce-backend) | Backend para um sistema de e-commerce completo, incluindo operações financeiras, contábeis e de estoque | `.NET` `PostgreSQL` `Docker` |
+| [**🔗 E-Commerce (Frontend)**](https://github.com/mgnischor/ecommerce-frontend) | Frontend para um sistema de e-commerce, seguindo boas práticas de UI/UX, responsividade e acessibilidade | `Angular` `TypeScript` `RxJs` |
+
+---
+
+## �📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mgnischor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgnischor&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mgnischor&theme=tokyonight&hide_border=true" />
 
@@ -95,10 +133,35 @@ Hoje, foco em construir **softwares robustos e escaláveis**, unindo o rigor aca
 
 ---
 
+## 📌 Áreas de Especialização
+
+```text
+├── Backend Development
+│   ├── APIs RESTful e gRPC com .NET / Python
+│   ├── Arquitetura Hexagonal, Clean Architecture, DDD
+│   └── CQRS, Event Sourcing, Saga Pattern
+│
+├── Cloud & Infraestrutura
+│   ├── AWS (Lambda, ECS, RDS, SQS, API Gateway)
+│   ├── Azure (AKS, App Service, Service Bus)
+│   └── IaC com Terraform + GitOps
+│
+└── Observabilidade & Qualidade
+    ├── Monitoramento com Prometheus + Grafana
+    ├── Distributed Tracing (OpenTelemetry)
+    └── Testes automatizados e pipelines CI/CD
+```
+
+---
+
 <div align="center">
 
 *"O compartilhamento de conhecimento é o motor da evolução em equipes técnicas."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mgnischor&color=6366f1&style=flat-square&label=Visitantes)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mgnischor&color=e94560&style=for-the-badge&label=Visitantes)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
 
 </div>
