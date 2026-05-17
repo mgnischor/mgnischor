@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Miguel Nischor's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 1486, Total PRs: 6, Total Issues: 2, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 1493, Total PRs: 6, Total Issues: 2, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 180.21087530004687;
+        stroke-dashoffset: 178.734208802555;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >3</text>
+      >4</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
