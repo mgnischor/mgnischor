@@ -130,14 +130,6 @@ A full-stack distributed application exploring modern backend architecture, API 
 * Relational persistence
 * Containerized development
 
-### Infrastructure & Network Management
-
-Exploring a platform for large-scale management of network infrastructure, including device configuration, centralized administration, automation, identity integration, and API-driven operations.
-
-### Warlock Engine
-
-A long-term systems programming project focused on building a game engine in C++, with particular interest in graphics, multimedia, native libraries, performance, and engine architecture.
-
 ---
 
 ## Professional Background
