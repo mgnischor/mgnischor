@@ -35,10 +35,26 @@
 - **Graduate in Business Engineering** — [UNINTER](https://www.uninter.com/) _(2024)_
 - **Graduate in Distributed Software Engineering** - [PUC Minas](https://www.pucminas.br/) _(2026)_
 
+## Languages
+
+- **English:** B2 (Advanced)
+- **Portuguese:** C2 (Native)
+- **Spanish:** A2 (Basic)
+
 ## Stats
 
 <a href="https://daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=5qz" width="356" alt="Miguel Nischor's Dev Card"/></a>
 [![mgnischor's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mgnischor)]()
+[![mgnischor's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mgnischor)]()
+
+## Availability
+
+💼 **I'm available for contracts.** Engagement formats:
+
+- Short-term (temporary)
+- Long-term (permanent)
+- Applied research
+- Development of new technologies
 
 ## Let's Connect
 
