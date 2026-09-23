@@ -37,10 +37,26 @@ Escreva uma breve apresentação em primeira pessoa:
 - **Pós-graduação em Engenharia de Negócios** — [UNINTER](https://www.uninter.com/) _(2024)_
 - **Pós-graduação em Engenharia de Software Distribuído** — [PUC Minas](https://www.pucminas.br/) _(2026)_
 
+## Idiomas
+
+- **Inglês:** B2 (Avançado)
+- **Português:** C1 (Nativo)
+- **Espanhol:** A2 (Básico)
+
 ## Estatísticas
 
 <a href="https://daily.dev/miguelnischor"><img src="https://api.daily.dev/devcards/v2/xgiS7uIA2veYZlbw7myKO.png?type=default&r=5qz" width="356" alt="Cartão de desenvolvedor de Miguel Nischor no daily.dev"/></a>
-[![Estatísticas do GitHub de mgnischor](https://github-readme-stats-fast.vercel.app/api?username=mgnischor)]
+[![Estatísticas do GitHub de mgnischor](https://github-readme-stats-fast.vercel.app/api?username=mgnischor)]()
+[![Estatísticas do GitHub de mgnischor](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mgnischor)]()
+
+## Disponibilidade
+
+💼 **Estou disponível para contratos.** Formatos de contratação:
+
+- Curto prazo (temporários)
+- Longo prazo (fixos)
+- Pesquisa aplicada
+- Desenvolvimento de novas tecnologias
 
 ## Vamos Conversar
 
